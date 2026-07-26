@@ -1,0 +1,490 @@
+{
+ "items": [
+  {
+   "d": "E",
+   "r": 0,
+   "t": "Yangi doʻstlar orttirish men uchun juda oson."
+  },
+  {
+   "d": "O",
+   "r": 0,
+   "t": "Tasavvurim juda kuchli."
+  },
+  {
+   "d": "A",
+   "r": 0,
+   "t": "Odamlarga osongina ishonaman."
+  },
+  {
+   "d": "N",
+   "r": 0,
+   "t": "Arzimas narsalarga ham koʻp xavotirlanaman."
+  },
+  {
+   "d": "C",
+   "r": 0,
+   "t": "Menga topshirilgan ishlarni koʻngildagidek uddalayman."
+  },
+  {
+   "d": "N",
+   "r": 0,
+   "t": "Sal narsaga ham jahlim chiqib ketadi."
+  },
+  {
+   "d": "E",
+   "r": 0,
+   "t": "Odam koʻp yigʻilgan gavjum joylarda boʻlishni yoqtiraman."
+  },
+  {
+   "d": "O",
+   "r": 0,
+   "t": "Sanʼat va ijod hayotimda muhim oʻrin tutadi."
+  },
+  {
+   "d": "A",
+   "r": 1,
+   "t": "Oʻz manfaatim uchun baʼzan boshqalardan foydalanib qolaman."
+  },
+  {
+   "d": "C",
+   "r": 0,
+   "t": "Xonam va xonadonimni ozoda, yigʻishtirilgan tutaman."
+  },
+  {
+   "d": "N",
+   "r": 0,
+   "t": "Tez-tez kayfiyatim tushib, gʻamgin boʻlib qolaman."
+  },
+  {
+   "d": "A",
+   "r": 0,
+   "t": "Men boshqalarga yordam berishni yaxshi koʻraman."
+  },
+  {
+   "d": "C",
+   "r": 0,
+   "t": "Har doim soʻzimda turaman va vaʼdamni bajaraman."
+  },
+  {
+   "d": "O",
+   "r": 0,
+   "t": "Men bir xillikdan koʻra xilma-xillikni afzal koʻraman."
+  },
+  {
+   "d": "O",
+   "r": 0,
+   "t": "Chuqur va fikrlashga majbur qiladigan kitoblarni yoqtiraman."
+  },
+  {
+   "d": "C",
+   "r": 0,
+   "t": "Har bir ishni boshlashdan oldin puxta reja tuzaman."
+  },
+  {
+   "d": "E",
+   "r": 1,
+   "t": "Odamlarga birdan ochilib ketmayman, ichki dunyoyimni sir tutaman."
+  },
+  {
+   "d": "A",
+   "r": 1,
+   "t": "Boshqalarning nimani his qilayotgani menga unchalik qiziq emas."
+  },
+  {
+   "d": "A",
+   "r": 0,
+   "t": "Har qanday vaziyatda ham haqiqatni gapiraman."
+  },
+  {
+   "d": "E",
+   "r": 1,
+   "t": "Hayotim bir xil va biroz zerikarli kechayotgandek tuyuladi."
+  },
+  {
+   "d": "A",
+   "r": 1,
+   "t": "Oʻz fikrimni yetkazish uchun boshqalarning fikriga qarshi chiqaman."
+  },
+  {
+   "d": "C",
+   "r": 0,
+   "t": "Mendan kutilganidan ham koʻproq natija koʻrsatishga harakat qilaman."
+  },
+  {
+   "d": "N",
+   "r": 0,
+   "t": "Oʻzimdan va shaxsimdan koʻpincha qoniqmayman."
+  },
+  {
+   "d": "O",
+   "r": 0,
+   "t": "Dunyo faqat \"fakt\" yoki \"xato\"dan emas, balki turli qarashlardan iborat deb bilaman."
+  },
+  {
+   "d": "N",
+   "r": 1,
+   "t": "Avariya yoki mushkul ahvolda ham xotirjam qolaman."
+  },
+  {
+   "d": "E",
+   "r": 1,
+   "t": "Oʻzim birinchi boʻlib qadam tashlamay, boshqalarning harakatini kutaman."
+  },
+  {
+   "d": "O",
+   "r": 1,
+   "t": "Sheʼr oʻqish yoki eshitish menga unchalik zavq bagʻishlamaydi."
+  },
+  {
+   "d": "C",
+   "r": 1,
+   "t": "Xonam va shaxsiy buyumlarimni sochib, betartib qoldiraman."
+  },
+  {
+   "d": "N",
+   "r": 1,
+   "t": "Men kamdan-kam asabiylashaman."
+  },
+  {
+   "d": "C",
+   "r": 1,
+   "t": "Jamiyatda oʻrnatilgan tartib va qoidalarni chetlab oʻtaman."
+  },
+  {
+   "d": "E",
+   "r": 0,
+   "t": "Guruhda va jamoada yetakchilikni oʻz zimmamga olaman."
+  },
+  {
+   "d": "O",
+   "r": 1,
+   "t": "Amaliy boʻlmagan, nazariy va falsafiy fikrlarni tushunish menga qiyin."
+  },
+  {
+   "d": "O",
+   "r": 1,
+   "t": "Nomaʼlum tajribalardan koʻra sinovdan oʻtgan eski usullarga tayanaman."
+  },
+  {
+   "d": "A",
+   "r": 0,
+   "t": "Qiyin ahvoldagi insonlarga chin dildan achinaman va hamdard boʻlaman."
+  },
+  {
+   "d": "C",
+   "r": 1,
+   "t": "Yetti oʻlchab bir kesmay, tavakkaliga ish tutaman."
+  },
+  {
+   "d": "N",
+   "r": 1,
+   "t": "Kayfiyatim tushishi va xafa boʻlib yurishim juda kam uchraydi."
+  },
+  {
+   "d": "E",
+   "r": 0,
+   "t": "Yangi va tavakkalchilikka boy sarguzashtlarni yoqtiraman."
+  },
+  {
+   "d": "E",
+   "r": 0,
+   "t": "Hayotdan va har bir kundan chinakam zavq olaman."
+  },
+  {
+   "d": "N",
+   "r": 1,
+   "t": "Noqulay vaziyatlarda ham xijolat boʻlib, tortinib oʻtirmayman."
+  },
+  {
+   "d": "O",
+   "r": 1,
+   "t": "Haddan tashqari taʼsirchan va hissiyotga beriluvchan odamlarni tushunishim qiyin."
+  },
+  {
+   "d": "A",
+   "r": 1,
+   "t": "Odamlarning harakati ortida doim yashirin bir manfaat bor deb shubhalanaman."
+  },
+  {
+   "d": "C",
+   "r": 1,
+   "t": "Bergan soʻzimda va vaʼdamda tura olmayman."
+  },
+  {
+   "d": "E",
+   "r": 1,
+   "t": "Odam koʻp va shovqin-suronli tadbirlarni yoqtirmayman."
+  },
+  {
+   "d": "N",
+   "r": 0,
+   "t": "Muammolarim haqida oʻylayverib, uzoq vaqt ulardan chiqolmay qolaman."
+  },
+  {
+   "d": "E",
+   "r": 1,
+   "t": "Ishlarga katta gʻayrat va yuqori ishtiyoq bilan kirishmayman."
+  },
+  {
+   "d": "A",
+   "r": 1,
+   "t": "Jahlim chiqqanda boshqalarga ogʻir va haqoratli gaplar gapirib qoʻyaman."
+  },
+  {
+   "d": "N",
+   "r": 1,
+   "t": "Toʻsiqlar va hayotiy qiyinchiliklarni yengib oʻtish men uchun qiyin emas."
+  },
+  {
+   "d": "O",
+   "r": 1,
+   "t": "Kattalar va rahbarlarning qarorlariga soʻzsiz hurmat bilan qarash kerak deb bilaman."
+  },
+  {
+   "d": "A",
+   "r": 0,
+   "t": "Oʻzaro musobaqalashishdan koʻra ahillik bilan hamkorlik qilishni afzal bilaman."
+  },
+  {
+   "d": "C",
+   "r": 1,
+   "t": "Ishlarni shoshma-shosharlik bilan bajaraman."
+  }
+ ],
+ "traits": {
+  "ES": "Hissiy barqarorlik",
+  "E": "Kirishimlilik",
+  "O": "Yangilikka ochiqlik",
+  "A": "Kelishuvchanlik",
+  "C": "Masʼuliyatlilik"
+ },
+ "poles": {
+  "ES": [
+   "Sezgir",
+   "Xotirjam"
+  ],
+  "E": [
+   "Mulohazali",
+   "Kirishimli"
+  ],
+  "O": [
+   "Amaliy",
+   "Kashfiyotchi"
+  ],
+  "A": [
+   "Mustaqil",
+   "Hamkor"
+  ],
+  "C": [
+   "Moslashuvchan",
+   "Rejali"
+  ]
+ },
+ "texts": {
+  "ES": {
+   "past": "Hissiyotlarni boshqalardan kuchliroq his qilishingiz mumkin. Bu kamchilik emas: bunday odamlar koʻpincha sezgir va ehtiyotkor boʻladi. Oʻzingizga qulay ish muhitini tanlash muhim.",
+   "orta": "Koʻp odamlar kabi baʼzi vaziyatlarda xavotirlanasiz, boshqalarida xotirjamsiz. Bu tabiiy holat.",
+   "yuqori": "Stressli vaziyatlarda ham xotirjamlikni saqlay olasiz. Bosim ostida ishlash talab qilinadigan yoʻnalishlar sizga mos kelishi mumkin."
+  },
+  "E": {
+   "past": "Mustaqil va chuqur ishlashni afzal koʻrasiz. Tahlil, dasturlash, tadqiqot kabi diqqat talab yoʻnalishlar kuchli tomoningiz boʻlishi mumkin.",
+   "orta": "Ham jamoada, ham mustaqil ishlay olasiz. Bu moslashuvchanlik koʻp kasblarda qoʻl keladi.",
+   "yuqori": "Odamlar bilan ishlash sizga quvvat beradi. Jamoaviy loyihalar, mijozlar bilan muloqot, yetakchilik yoʻnalishlarini koʻrib chiqing."
+  },
+  "O": {
+   "past": "Aniq qoidalar va sinalgan usullar bilan ishlash sizga qulay. Aniqlik va barqarorlik talab qilinadigan sohalarda bu muhim sifat.",
+   "orta": "Yangilikka ham, sinalgan usullarga ham ochiqsiz. Vaziyatga qarab tanlaysiz.",
+   "yuqori": "Yangi gʻoyalar va nostandart yechimlar sizni tortadi. Ijodiy va tadqiqot yoʻnalishlarida bu katta ustunlik."
+  },
+  "A": {
+   "past": "Oʻz fikringizni ochiq aytasiz va raqobatdan qochmaysiz. Muzokara, tanqidiy tahlil, raqobatli muhitlar sizga mos kelishi mumkin.",
+   "orta": "Hamkorlik ham, oʻz fikringizni himoya qilish ham qoʻlingizdan keladi.",
+   "yuqori": "Odamlarga yordam berish va hamkorlik siz uchun tabiiy. Taʼlim, tibbiyot, xizmat sohalarida bu katta kuch."
+  },
+  "C": {
+   "past": "Erkin va moslashuvchan ish uslubini afzal koʻrasiz. Qatʼiy jadvaldan koʻra natijaga qaraydigan muhitlar sizga qulayroq. Reja tuzish koʻnikmasini rivojlantirish foydali boʻladi.",
+   "orta": "Muhim ishlarda oʻzingizni yigʻib olasiz, qolganlarida erkinroq yondashasiz.",
+   "yuqori": "Rejali va intizomli ishlaysiz, boshlagan ishni oxiriga yetkazasiz. Bu deyarli har qanday sohada muvaffaqiyatning asosiy omili."
+  }
+ },
+ "trait_order": [
+  "ES",
+  "E",
+  "O",
+  "A",
+  "C"
+ ],
+ "disclaimer": "Bu natija maslahat xarakteriga ega, hukm emas. Kasb yoki yoʻnalish tanlashda uni qiziqishlaringiz va imkoniyatlaringiz bilan birga hisobga oling.",
+ "archetypes": {
+  "ES|E": {
+   "name": "Xotirjam Yetakchi",
+   "slug": "xotirjam-yetakchi",
+   "famName": "Yetakchilar",
+   "color": "#0F6E8C",
+   "lines": [
+    "Vaziyat qizib ketganda ham ovozingizni koʻtarmaysiz — shuning uchun odamlar sizga quloq soladi.",
+    "Guruh adashib qolganda yoʻnalishni koʻrsatadigan odam odatda siz boʻlasiz."
+   ],
+   "strength": "bosim ostida toʻgʻri qaror qabul qilish.",
+   "watch": "Xotirjamligingiz baʼzan befarqlikdek koʻrinadi. Yaqinlaringiz sizdan koʻproq hissiyot kutayotganini sezmay qolmang.",
+   "figure": {
+    "who": "Bahouddin Naqshband",
+    "years": "1318–1389",
+    "why": "Odamlarni majburlab emas, oʻz namunasi bilan ergashtirgan."
+   }
+  },
+  "E|C": {
+   "name": "Gʻayratli Tashkilotchi",
+   "slug": "gayratli-tashkilotchi",
+   "famName": "Yetakchilar",
+   "color": "#0F6E8C",
+   "lines": [
+    "Gapdan ishga tez oʻtasiz — rejani boshqalar hali muhokama qilayotganda siz boshlab yuborgan boʻlasiz.",
+    "Atrofdagilarni ham harakatga sola olasiz."
+   ],
+   "strength": "gʻoyani haqiqatga aylantirish.",
+   "watch": "Tez boshlaganingiz uchun baʼzan boshqalarning fikrini soʻrashni unutasiz. Eng yaxshi gʻoya doim sizniki boʻlmasligi mumkin.",
+   "figure": {
+    "who": "Nodirabegim",
+    "years": "1792–1842",
+    "why": "Qoʻqonda adabiy muhitni uyushtirgan, madrasa va masjidlar qurdirgan."
+   }
+  },
+  "ES|O": {
+   "name": "Xotirjam Kashfiyotchi",
+   "slug": "xotirjam-kashfiyotchi",
+   "famName": "Ijodkorlar",
+   "color": "#6B4FA8",
+   "lines": [
+    "Notanish narsani koʻrsangiz avval sinab koʻrasiz, keyin fikr bildirasiz.",
+    "Lekin sarguzashtga koʻzni yumib emas, sovuqqonlik bilan kirasiz."
+   ],
+   "strength": "notanish yoʻlni xotirjam tekshirib koʻrish.",
+   "watch": "Yangi narsaga tez qiziqib, boshlagan ishingizni yarmida tashlab qoʻyish xavfi bor. Bittasini oxirigacha olib borib koʻring.",
+   "figure": {
+    "who": "Abu Rayhon Beruniy",
+    "years": "973–1048",
+    "why": "Notanish oʻlkalarni ham, notanish fanlarni ham sovuqqonlik bilan oʻrgangan."
+   }
+  },
+  "E|O": {
+   "name": "Gʻayratli Ijodkor",
+   "slug": "gayratli-ijodkor",
+   "famName": "Ijodkorlar",
+   "color": "#6B4FA8",
+   "lines": [
+    "Gʻoyalaringiz tugamaydi va ularni odamlarga gapirib berishni yaxshi koʻrasiz.",
+    "Bir gʻoyani tushuntira boshlasangiz, tinglayotgan odam ham qiziqib qoladi."
+   ],
+   "strength": "yangi gʻoyani odamlarga yuqtirish.",
+   "watch": "Gʻoya koʻp, vaqt kam. Hammasini birdan boshlasangiz, hech biri tugamasligi mumkin.",
+   "figure": {
+    "who": "Zebunniso Begim",
+    "years": "1638–1702",
+    "why": "Boburiylar xonadonidan; «Maxfiy» taxallusi bilan butun bir devon yozgan."
+   }
+  },
+  "O|C": {
+   "name": "Ijodkor Strateg",
+   "slug": "ijodkor-strateg",
+   "famName": "Ijodkorlar",
+   "color": "#6B4FA8",
+   "lines": [
+    "Yangi yechim topasiz — va uni oxiriga ham yetkazasiz.",
+    "Gʻoyani daftarda qoldirmaysiz — jadvalga, qadamlarga aylantirasiz."
+   ],
+   "strength": "gʻoyani aniq tizimga solish.",
+   "watch": "Hammasini mukammal qilishga urinish sizni sekinlashtiradi. Baʼzan «yetarlicha yaxshi» ham haqiqiy natija.",
+   "figure": {
+    "who": "Mirzo Ulugʻbek",
+    "years": "1394–1449",
+    "why": "Yulduzlarni sanashni orzu qilgan, rasadxona qurgan va 1018 tasini roʻyxatga olgan."
+   }
+  },
+  "ES|A": {
+   "name": "Ishonchli Doʻst",
+   "slug": "ishonchli-dost",
+   "famName": "Gʻamxoʻrlar",
+   "color": "#237A5E",
+   "lines": [
+    "Odamlar sizga sirini aytadi, chunki yoningizda oʻzini xavfsiz his qiladi.",
+    "Kimdir xafa boʻlsa, koʻpincha birinchi boʻlib siz sezasiz."
+   ],
+   "strength": "boshqalarni tinchlantira olish.",
+   "watch": "Boshqalarga yordam berib, oʻzingizga vaqt qoldirmaslik oson. «Yoʻq» deyishni ham oʻrganing.",
+   "figure": {
+    "who": "Jahonotin Uvaysiy",
+    "years": "1781–1845",
+    "why": "Shoira va ustoz; Nodirabegimga sheʼr ilmini oʻrgatgan."
+   }
+  },
+  "E|A": {
+   "name": "Jamoaning Yuragi",
+   "slug": "jamoaning-yuragi",
+   "famName": "Gʻamxoʻrlar",
+   "color": "#237A5E",
+   "lines": [
+    "Siz kirgan xonada suhbat oʻzidan-oʻzi boshlanib ketadi.",
+    "Chetda qolgan odamni sezasiz va yoningizga chaqirasiz."
+   ],
+   "strength": "odamlarni birlashtirish.",
+   "watch": "Hamma bilan yaxshi boʻlishga urinib, oʻz fikringizni aytmay qoʻyishingiz mumkin. Sizning fikringiz ham muhim.",
+   "figure": {
+    "who": "Alisher Navoiy",
+    "years": "1441–1501",
+    "why": "Oʻz tilida yozib, butun bir xalqni bir-biriga yaqinlashtirgan."
+   }
+  },
+  "O|A": {
+   "name": "Ijodkor Insonparvar",
+   "slug": "ijodkor-insonparvar",
+   "famName": "Gʻamxoʻrlar",
+   "color": "#237A5E",
+   "lines": [
+    "Yangi gʻoyalar va odamlarga gʻamxoʻrlik sizda birga yashaydi.",
+    "Muammoni koʻrganingizda avval odamlar haqida oʻylaysiz."
+   ],
+   "strength": "foydali va insoniy yechim topish.",
+   "watch": "Boshqalarning muammosini oʻzingizniki qilib olasiz. Hammasini yolgʻiz hal qilishingiz shart emas.",
+   "figure": {
+    "who": "Anbar Otin",
+    "years": "1870–1915",
+    "why": "Sheʼrlarida oddiy odamlarning va ayollarning hayoti haqida yozgan."
+   }
+  },
+  "ES|C": {
+   "name": "Barqaror Strateg",
+   "slug": "barqaror-strateg",
+   "famName": "Tayanchlar",
+   "color": "#A2731F",
+   "lines": [
+    "Reja tuzasiz va rejadan chalgʻimaysiz.",
+    "Boshqalar taslim boʻlgan joyda siz hali ishlab turasiz."
+   ],
+   "strength": "uzoq masofaga chidash.",
+   "watch": "Reja buzilganda qiynalasiz. Baʼzan yoʻlni oʻzgartirish — magʻlubiyat emas.",
+   "figure": {
+    "who": "Muhammad al-Xorazmiy",
+    "years": "783–850",
+    "why": "Murakkab masalani aniq qadamlarga boʻlgan — «algoritm» soʻzi uning nomidan qolgan."
+   }
+  },
+  "A|C": {
+   "name": "Ishonchli Tayanch",
+   "slug": "ishonchli-tayanch",
+   "famName": "Tayanchlar",
+   "color": "#A2731F",
+   "lines": [
+    "Vaʼda berishdan oldin oʻylaysiz — chunki bergan vaʼdangizni bajarasiz.",
+    "Shuning uchun muhim ish koʻpincha aynan sizga topshiriladi."
+   ],
+   "strength": "soʻzida turish.",
+   "watch": "Hamma ishni oʻz zimmangizga olib, ortiqcha yuk koʻtarib yurasiz. Yordam soʻrash ham kuch.",
+   "figure": {
+    "who": "Dilshod Barno",
+    "years": "1800–1905",
+    "why": "Ellik yil davomida 891 nafar qizga oʻqish va yozishni oʻrgatgan."
+   }
+  }
+ }
+}
