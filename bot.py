@@ -104,7 +104,7 @@ def render_archetype(a):
         f"📜 <b>{esc(a['figure']['who'])}</b> "
         f"<i>({esc(a['figure']['years'])})</i>\n"
         f"{esc(a['figure']['why'])}\n\n"
-        f"— Bu bugungi suratingiz, oʻzgarmas yorliq emas. 10–18 yoshda shaxsiyat "
+        f"— Bu bugungi suratingiz, oʻzgarmas yorliq emas. 13–18 yoshda shaxsiyat "
         f"hali shakllanmoqda.\n\n"
         f"🔗 {SITE}"
     )
